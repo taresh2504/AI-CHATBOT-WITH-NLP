@@ -121,3 +121,7 @@ Learning Ability – With machine learning integration, the chatbot can improve 
 
 Conclusion
 The AI Chatbot with NLP represents a step towards intelligent human-computer interaction. By leveraging NLP, machine learning, and deep learning technologies, it bridges the gap between human language complexity and computer understanding. This task not only demonstrates practical implementation skills but also opens up possibilities for creating advanced conversational systems for multiple industries.
+
+# OUTPUT #
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4c67c637-36e5-4d3a-919d-31cefd847a29" />
